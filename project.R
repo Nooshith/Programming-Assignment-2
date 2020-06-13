@@ -25,4 +25,3 @@ cacheSolve <- function(x, ...) {
   x$setInverse(j)
   j
 }
-c
